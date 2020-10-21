@@ -1,0 +1,17 @@
+C:\Users\591052\source\repos\CustomerOrdersApp\CustomerOrders\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\591052\source\repos\CustomerOrdersApp\CustomerOrders\obj\Debug\CustomerOrders.frmOrderDetail.resources
+C:\Users\591052\source\repos\CustomerOrdersApp\CustomerOrders\obj\Debug\CustomerOrders.frmOrders.resources
+C:\Users\591052\source\repos\CustomerOrdersApp\CustomerOrders\obj\Debug\CustomerOrders.Properties.Resources.resources
+C:\Users\591052\source\repos\CustomerOrdersApp\CustomerOrders\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\591052\source\repos\CustomerOrdersApp\CustomerOrders\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\591052\source\repos\CustomerOrdersApp\CustomerOrders\bin\Debug\CustomerOrders.exe.config
+C:\Users\591052\source\repos\CustomerOrdersApp\CustomerOrders\bin\Debug\CustomerOrders.exe
+C:\Users\591052\source\repos\CustomerOrdersApp\CustomerOrders\bin\Debug\CustomerOrders.pdb
+C:\Users\591052\source\repos\CustomerOrdersApp\CustomerOrders\bin\Debug\DAL.dll
+C:\Users\591052\source\repos\CustomerOrdersApp\CustomerOrders\bin\Debug\Model.dll
+C:\Users\591052\source\repos\CustomerOrdersApp\CustomerOrders\bin\Debug\DAL.pdb
+C:\Users\591052\source\repos\CustomerOrdersApp\CustomerOrders\bin\Debug\Model.pdb
+C:\Users\591052\source\repos\CustomerOrdersApp\CustomerOrders\obj\Debug\UI.csproj.CopyComplete
+C:\Users\591052\source\repos\CustomerOrdersApp\CustomerOrders\obj\Debug\CustomerOrders.exe
+C:\Users\591052\source\repos\CustomerOrdersApp\CustomerOrders\obj\Debug\CustomerOrders.pdb
+C:\Users\591052\source\repos\CustomerOrdersApp\CustomerOrders\obj\Debug\CustomerOrders.frmUpdate.resources
